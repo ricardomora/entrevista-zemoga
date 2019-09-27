@@ -1,0 +1,16 @@
+@import '../../App.scss';
+
+@media only screen and (min-width: 320px) and (max-width: 736px)
+{
+    .close-buttom {
+        display: none;
+    }
+}
+
+.main-view {
+    .title-section {
+        margin-bottom: 40px;
+        font-size: 40px;
+        font-weight: 300;
+    }
+}
